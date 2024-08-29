@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(219, 16, 141);
+}
+h1{
+    color: rgb(107, 7, 90);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+ing{
+    width: 500;
+    height: 500;
+    object-fit:cover;
+    border-radius: 100%;
+    object-position: -110%;
+
+}
+
